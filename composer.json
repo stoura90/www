@@ -7,12 +7,7 @@
         "backend"
     ],
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@gitlab.com:igdevltd/developers/libs/laravel/nova.git"
-        }
-    ],
+    
     "require": {
         "php": "^8.1",
         "ext-json": "*",
